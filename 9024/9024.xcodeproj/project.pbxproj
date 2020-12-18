@@ -1,0 +1,93 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CB967452258C90BF006C99D5 /* week9 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week9; sourceTree = "<group>"; };
+		CB967453258C90C0006C99D5 /* week8 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week8; sourceTree = "<group>"; };
+		CB967454258C90C0006C99D5 /* week7 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week7; sourceTree = "<group>"; };
+		CB967455258C90C0006C99D5 /* week3 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week3; sourceTree = "<group>"; };
+		CB967456258C90C0006C99D5 /* week2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week2; sourceTree = "<group>"; };
+		CB967457258C90C0006C99D5 /* week4 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week4; sourceTree = "<group>"; };
+		CB967458258C90C0006C99D5 /* week10 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week10; sourceTree = "<group>"; };
+		CB967459258C90C0006C99D5 /* week5 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week5; sourceTree = "<group>"; };
+		CB96745A258C90C1006C99D5 /* week1 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = week1; sourceTree = "<group>"; };
+		CB96745B258C90C1006C99D5 /* 9024ass10 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = 9024ass10; sourceTree = "<group>"; };
+		CB96745C258C90C1006C99D5 /* Assignment_goNSW */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Assignment_goNSW; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CB96744B258C90A4006C99D5 = {
+			isa = PBXGroup;
+			children = (
+				CB96745B258C90C1006C99D5 /* 9024ass10 */,
+				CB96745C258C90C1006C99D5 /* Assignment_goNSW */,
+				CB96745A258C90C1006C99D5 /* week1 */,
+				CB967456258C90C0006C99D5 /* week2 */,
+				CB967455258C90C0006C99D5 /* week3 */,
+				CB967457258C90C0006C99D5 /* week4 */,
+				CB967459258C90C0006C99D5 /* week5 */,
+				CB967454258C90C0006C99D5 /* week7 */,
+				CB967453258C90C0006C99D5 /* week8 */,
+				CB967452258C90BF006C99D5 /* week9 */,
+				CB967458258C90C0006C99D5 /* week10 */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CB96744C258C90A4006C99D5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1220;
+			};
+			buildConfigurationList = CB96744F258C90A4006C99D5 /* Build configuration list for PBXProject "9024" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CB96744B258C90A4006C99D5;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CB967450258C90A4006C99D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CB967451258C90A4006C99D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CB96744F258C90A4006C99D5 /* Build configuration list for PBXProject "9024" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CB967450258C90A4006C99D5 /* Debug */,
+				CB967451258C90A4006C99D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CB96744C258C90A4006C99D5 /* Project object */;
+}

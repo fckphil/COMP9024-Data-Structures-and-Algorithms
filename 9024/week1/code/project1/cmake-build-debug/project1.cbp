@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project1">
+				<Option output="/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 project1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project1/fast">
+				<Option output="/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 project1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/izual/Documents/9024/term2/week1/code/project1/Stack.c">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/Users/izual/Documents/9024/term2/week1/code/project1/Stack.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/Users/izual/Documents/9024/term2/week1/code/project1/brackets.c">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/Users/izual/Documents/9024/term2/week1/code/project1/euclid.c">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/Users/izual/Documents/9024/term2/week1/code/project1/gcd.c">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/Users/izual/Documents/9024/term2/week1/code/project1/insertion_sort.c">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/Users/izual/Documents/9024/term2/week1/code/project1/main.c">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/Users/izual/Documents/9024/term2/week1/code/project1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

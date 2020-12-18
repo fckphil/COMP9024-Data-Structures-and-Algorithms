@@ -1,0 +1,3 @@
+/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/izual/Documents/9024/term2/week1/code/project1/cmake-build-debug/CMakeFiles/project1.dir

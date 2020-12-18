@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/izual/CLionProjects/untitled4/IntQueue.h
+
+/Users/izual/CLionProjects/untitled4/main.c
+stdio.h
+-
+IntQueue.h
+/Users/izual/CLionProjects/untitled4/IntQueue.h
+

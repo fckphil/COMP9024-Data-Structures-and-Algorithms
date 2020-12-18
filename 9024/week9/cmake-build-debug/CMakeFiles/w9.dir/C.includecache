@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/izual/Desktop/w9/Trie.h
+
+/Users/izual/Desktop/w9/main.c
+Trie.h
+/Users/izual/Desktop/w9/Trie.h
+math.h
+-
+stdio.h
+-
+
